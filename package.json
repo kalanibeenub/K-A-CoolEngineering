@@ -1,0 +1,15 @@
+{
+  "name": "ka-coolenginering",
+  "productName": "K & A Cool Enginering",
+  "version": "1.0.0",
+  "description": "Manage the employes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Anabeena",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^32.0.1"
+  }
+}
